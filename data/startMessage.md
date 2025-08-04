@@ -1,7 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/f5dc5acc-8630-481e-83c3-1cca3e4f20a9" alt="广告图片">
-
-
+![kf](https://github.com/user-attachments/assets/840e275d-9ce0-4085-8129-7aeab4399324)
 
 双向请直接私聊本机器人
 
@@ -10,4 +8,3 @@
 
 担保交易·安全放心
 🌟🌈🌝🐳🍗
-
