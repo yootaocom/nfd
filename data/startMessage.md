@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="花瓣素材_图标系列3D虚拟人物客服贴纸_193739183" src="https://github.com/user-attachments/assets/8e1a141e-989c-47ed-8a86-25294ab5938c" />
+<img width="800" height="800" alt="123" src="https://github.com/user-attachments/assets/8e1a141e-989c-47ed-8a86-25294ab5938c" />
 
 双向请直接私聊本机器人
 
