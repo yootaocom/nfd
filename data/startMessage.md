@@ -1,4 +1,4 @@
-<img src="[https://via.placeholder.com/300x150.png?text=广告图片](https://github.com/user-attachments/assets/f5dc5acc-8630-481e-83c3-1cca3e4f20a9)" alt="广告图片">
+<img src="(https://github.com/user-attachments/assets/f5dc5acc-8630-481e-83c3-1cca3e4f20a9)" alt="广告图片">
 
 
 双向请直接私聊本机器人
