@@ -1,6 +1,4 @@
 
-![](https://github.com/yootaocom/nfd/blob/main/data/kf.png?raw=true)
-
 双向请直接私聊本机器人
 
 官方客服 @booancomcode
