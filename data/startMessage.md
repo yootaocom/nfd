@@ -1,5 +1,5 @@
 
-![广告图片](/data/kf.png)
+![广告图片](https://github.com/yootaocom/nfd/blob/main/data/kf.png))
 
 双向请直接私聊本机器人
 
