@@ -6,9 +6,6 @@
 
 ✅— 官方唯一双向通道 —
 
-👨‍💼官方客服 @booancomcode
-👩‍💼售后客服 @booancode
-
 🛡️ 担保交易·安全放心
 
 🌐官网地址：www.booan.com
