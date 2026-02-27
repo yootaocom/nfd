@@ -9,3 +9,5 @@
 🛡️ 担保交易·安全放心
 
 🌐官网地址：www.booan.com
+
+📣频道ID：https://t.me/booancom
